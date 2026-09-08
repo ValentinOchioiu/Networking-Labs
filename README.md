@@ -15,6 +15,11 @@ A Cisco IOSv site-to-site IPSec VPN lab covering IKE negotiation, ESP encryption
 
 [View project](./projects/cisco-ipsec/README.md) · [Presentation PDF](./projects/cisco-ipsec/cisco-ipsec.pdf)
 
+### Windows Active Directory & GPO Security Lab
+A Windows Server 2022 Active Directory lab focused on centralized endpoint security management through Group Policy. The project covers AD DS and DNS, RRAS/NAT, domain-joined clients, centrally distributed Windows Firewall policy, client-side GPO verification, functional testing, and production-security considerations.
+
+[View project](./projects/windows-ad-gpo/README.md) · [Presentation PDF](./projects/windows-ad-gpo/windows-ad-gpo-security-lab.pdf)
+
 ## Portfolio direction
 
 The repository will grow with selected security projects rather than every classroom exercise. The focus is on projects that demonstrate practical configuration, validation, troubleshooting, and security reasoning.

@@ -20,6 +20,11 @@ A Windows Server 2022 Active Directory lab focused on centralized endpoint secur
 
 [View project](./projects/windows-ad-gpo/README.md) · [Presentation PDF](./projects/windows-ad-gpo/windows-ad-gpo-security-lab.pdf)
 
+### Windows AppLocker & Group Policy Security Lab
+A Windows Server 2022 application-control lab using Local Group Policy, TestUser execution tests, and AppLocker event logs. Covers Path, Publisher and File Hash rules, default-deny behaviour, additional rule collections, recovery, and production limitations.
+
+[View project](./projects/applocker-gpo/README.md) · [Presentation PDF](./projects/applocker-gpo/applocker-gpo-security-lab.pdf) · [Full LaTeX project ZIP](./projects/applocker-gpo/AppLocker-GPO-Portfolio.zip)
+
 ## Portfolio direction
 
 The repository will grow with selected security projects rather than every classroom exercise. The focus is on projects that demonstrate practical configuration, validation, troubleshooting, and security reasoning.

@@ -1,8 +1,7 @@
 # Network Security Portfolio
 
 Practical network and cybersecurity projects completed during my Network Security studies at Folkuniversitetet in Gothenburg.
-
-This repository is being rebuilt as a focused portfolio of selected projects. Each project documents the security objective, architecture, implementation, testing, troubleshooting, and lessons learned.
+Each project documents the security objective, architecture, implementation, testing, troubleshooting, and lessons learned.
 
 ## Current projects
 

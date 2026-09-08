@@ -41,4 +41,6 @@ Segmentation alone is not enough. The strongest result came from combining segme
 
 ## Presentation
 
-The final presentation PDF will be added to this project after export from the LaTeX source.
+[View the full presentation (PDF)](./ics-network-security.pdf)
+
+The presentation contains the complete lab architecture, implementation evidence, firewall and IPS configuration, Wazuh monitoring results, and validation of the defense-in-depth design.

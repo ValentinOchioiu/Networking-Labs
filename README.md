@@ -8,12 +8,12 @@ Each project documents the security objective, architecture, implementation, tes
 ### Defense-in-Depth ICS Network Security Lab
 A segmented ICS/OT security environment built in GNS3 with VLANs, nftables, Suricata inline IPS, NFQUEUE, and Wazuh SIEM. The project focuses on reducing lateral movement toward critical industrial assets and validating segmentation, blocking, and centralized monitoring.
 
-[View project](./projects/ics-network-security/README.md)
+[View project](./projects/ics-network-security/README.md) · [Presentation PDF](./projects/ics-network-security/ics-network-security.pdf)
 
 ### Site-to-Site IPSec VPN Security Lab
 A Cisco IOSv site-to-site IPSec VPN lab covering IKE negotiation, ESP encryption, NAT exemption, WAN filtering, packet-level verification in Wireshark, Nmap testing, ICMP control-plane protection, SSH hardening, and troubleshooting.
 
-[View project](./projects/cisco-ipsec/README.md)
+[View project](./projects/cisco-ipsec/README.md) · [Presentation PDF](./projects/cisco-ipsec/cisco-ipsec.pdf)
 
 ## Portfolio direction
 

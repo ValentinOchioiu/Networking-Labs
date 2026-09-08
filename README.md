@@ -1,2 +1,21 @@
-# Networking-Labs
-Networking labs with routing, switching, NAT, firewall configurations and Linux and Windows systems
+# Network Security Portfolio
+
+Practical network and cybersecurity projects completed during my Network Security studies at Folkuniversitetet in Gothenburg.
+
+This repository is being rebuilt as a focused portfolio of selected projects. Each project documents the security objective, architecture, implementation, testing, troubleshooting, and lessons learned.
+
+## Current projects
+
+### Defense-in-Depth ICS Network Security Lab
+A segmented ICS/OT security environment built in GNS3 with VLANs, nftables, Suricata inline IPS, NFQUEUE, and Wazuh SIEM. The project focuses on reducing lateral movement toward critical industrial assets and validating segmentation, blocking, and centralized monitoring.
+
+[View project](./projects/ics-network-security/README.md)
+
+### Site-to-Site IPSec VPN Security Lab
+A Cisco IOSv site-to-site IPSec VPN lab covering IKE negotiation, ESP encryption, NAT exemption, WAN filtering, packet-level verification in Wireshark, Nmap testing, ICMP control-plane protection, SSH hardening, and troubleshooting.
+
+[View project](./projects/cisco-ipsec/README.md)
+
+## Portfolio direction
+
+The repository will grow with selected security projects rather than every classroom exercise. The focus is on projects that demonstrate practical configuration, validation, troubleshooting, and security reasoning.

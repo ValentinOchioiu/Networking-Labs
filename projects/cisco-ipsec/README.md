@@ -61,4 +61,6 @@ The lab intentionally uses a classic Cisco policy-based IPSec design. The presen
 
 ## Presentation
 
-The final presentation PDF will be added to this project after export from the LaTeX source.
+[View the full presentation (PDF)](./cisco-ipsec.pdf)
+
+The presentation contains the complete architecture, configuration examples, verification outputs, Wireshark evidence, attack testing, troubleshooting, and production-security discussion.

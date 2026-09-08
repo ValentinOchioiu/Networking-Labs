@@ -19,11 +19,8 @@ Internet Explorer is one example of expected default-deny behaviour after removi
 
 The 18-slide presentation uses screenshots from LAB 4. CPU-Z screenshots show the File Hash rule and allowed/blocked events, but no raw hash value or hash-condition dialog. No hash value is invented. DLL coverage, trusted-binary proxy execution and broader deployment controls are production context, not lab implementations.
 
-## Presentation and source
+## Presentation
 
-- [View presentation (PDF)](./applocker-gpo-security-lab.pdf)
-- [Download complete LaTeX project (ZIP)](./AppLocker-GPO-Portfolio.zip)
-- [LaTeX source](./applocker-gpo-security-lab.tex)
-- [Screenshot provenance](./IMAGE-SOURCES.txt)
+[View the full presentation (PDF)](./applocker-gpo-security-lab.pdf)
 
-Compile twice with `pdflatex applocker-gpo-security-lab.tex` from this directory. TeX Live with Beamer and Source Sans Pro is required. Keep the images directory beside the source.
+The presentation covers the test model, policy configuration, rule collections, execution evidence, troubleshooting, and production limitations.

@@ -51,7 +51,7 @@ The project documents several real configuration issues encountered during the l
 
 ## Modern production context
 
-The lab intentionally uses a classic Cisco policy-based IPSec design. The presentation also discusses modern alternatives without claiming they were implemented, including:
+The lab intentionally uses a classic Cisco policy-based IPSec design. The presentation also discusses modern alternatives recommended in current vendor guidance, including:
 
 - IKEv2
 - Certificate-based authentication

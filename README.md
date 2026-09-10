@@ -25,6 +25,12 @@ A Windows Server 2022 application-control lab using Local Group Policy, TestUser
 
 [View project](./projects/4-applocker-gpo/README.md) · [Presentation PDF](./projects/4-applocker-gpo/applocker-gpo-security-lab.pdf)
 
+### 5. Linux AppArmor & SSH MFA Security Lab
+
+Linux security-hardening lab focused on AppArmor application confinement, SSH multi-factor authentication, audit-driven policy refinement, and targeted restriction of privileged Nmap raw-socket scanning.
+
+[View project](./projects/5-AppArmor/README.md) · [Presentation PDF](./projects/5-AppArmor/apparmor-security-lab.pdf)
+
 ## Portfolio direction
 
 The repository will grow with selected security projects rather than every classroom exercise. The focus is on projects that demonstrate practical configuration, validation, troubleshooting, and security reasoning.

@@ -31,6 +31,12 @@ Linux security-hardening lab focused on AppArmor application confinement, SSH mu
 
 [View project](./projects/5-AppArmor/README.md) · [Presentation PDF](./projects/5-AppArmor/apparmor-security-lab.pdf)
 
+### 6. TLS, HTTP/2 & QUIC Security Lab
+
+Linux network-security lab focused on encrypted web communication, TLS handshake analysis, HTTP/2 negotiation with ALPN, QUIC/HTTP/3, certificate trust, and transport-layer disruption. The project also includes Wireshark analysis, self-signed and public certificate comparison, TCP RST testing, and MITM traffic inspection.
+
+[View project](./projects/6-tls-http2-quic/README.md) · [Presentation PDF](./projects/6-tls-http2-quic/tls-http2-quic-security-lab.pdf)
+
 ## Portfolio direction
 
 The repository will grow with selected security projects rather than every classroom exercise. The focus is on projects that demonstrate practical configuration, validation, troubleshooting, and security reasoning.

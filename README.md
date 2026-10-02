@@ -41,7 +41,7 @@ Linux network-security lab focused on encrypted web communication, TLS handshake
 
 Incident analysis of the July 2025 Linuxsys cryptomining campaign and its exploitation of CVE-2021-41773 in Apache HTTP Server 2.4.49. The report covers path traversal and CGI-related command execution, the observed attack chain, CIA impact, CVSS interpretation, MITRE ATT&CK mapping, mitigation priorities, residual risk and source criticism.
 
-[View project](./projects/7-linuxsys-cve-2021-41773/README.md) · [Incident Report PDF](./projects/7-linuxsys-cve-2021-41773/linuxsys-cve-2021-41773-incident-report.pdf)
+[View project](./projects/7-linuxsys-cve-2021-41773/README.md) · [Incident Report PDF](./projects/7-linuxsys-cve-2021-41773/Linuxsys%20(CVE-2021-41773)%20Incident%20Report.pdf)
 
 ## Portfolio direction
 

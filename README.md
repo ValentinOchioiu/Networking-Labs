@@ -37,6 +37,12 @@ Linux network-security lab focused on encrypted web communication, TLS handshake
 
 [View project](./projects/6-tls-http2-quic/README.md) · [Presentation PDF](./projects/6-tls-http2-quic/tls-http2-quic-security-lab.pdf)
 
+### 7. Linuxsys Cryptominer Campaign & CVE-2021-41773 Incident Analysis
+
+Incident analysis of the July 2025 Linuxsys cryptomining campaign and its exploitation of CVE-2021-41773 in Apache HTTP Server 2.4.49. The report covers path traversal and CGI-related command execution, the observed attack chain, CIA impact, CVSS interpretation, MITRE ATT&CK mapping, mitigation priorities, residual risk and source criticism.
+
+[View project](./projects/7-linuxsys-cve-2021-41773/README.md) · [Incident Report PDF](./projects/7-linuxsys-cve-2021-41773/linuxsys-cve-2021-41773-incident-report.pdf)
+
 ## Portfolio direction
 
 The repository will grow with selected security projects rather than every classroom exercise. The focus is on projects that demonstrate practical configuration, validation, troubleshooting, and security reasoning.
